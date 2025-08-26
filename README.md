@@ -22,3 +22,6 @@ for review in tqdm(reviews):
 ## 결과
 
 ![snetiment_model_result](image/sentiment_result.png)
+
+
+### 17기 화이팅! 강사님 감사합니다!
